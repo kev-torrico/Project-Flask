@@ -1,6 +1,6 @@
 # INSTALACIÓN DEL PROYECTO PRUEBA
 
-### 0 A una carpeta ya inicializada, añadir el origin remoto
+### 0 En una carpeta en blanco
 
 `git remote clone https://github.com/kev-torrico/Project-Flask .`
 

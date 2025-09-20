@@ -26,6 +26,8 @@
 
 ### 5 Definir las variables requeridas en un .env. Las variables necesarias estan en .env.example
 
+### 5.1 Crear la base de datos en Postgress
+
 ### 6 Traer las migraciones
 
 `flask db upgrade`
